@@ -6,9 +6,9 @@ Acervo
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-Licença">Licença</a>
 </p>
 
 <p align="center">
@@ -36,6 +36,6 @@ A proposta do projeto é um  simples e funcional acervo
 
 ## :memo: Licença
 
-Esse projeto é linceciado por MIT license.
+Esse projeto é licenciado por MIT license.
 
 ---
