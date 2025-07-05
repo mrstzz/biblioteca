@@ -17,13 +17,6 @@ Acervo
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src="./assets/readme2.png" width="100%">
-  <img alt="projeto DevLinks" src="./assets/readme3.png" width="100%">
-  <img alt="projeto DevLinks" src="./assets/readme1.png" width="100%">
-</p>
-
-
 
 ## 🚀 Tecnologias 
 
